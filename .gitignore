@@ -1,4 +1,6 @@
 .venv
 .env
 notes.txt
-.database.py.kate-swp
+pat.txt
+__pycache__/
+*.pyc
